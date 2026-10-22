@@ -1,0 +1,38 @@
+[
+  {
+    "id": "openstax-management-zh",
+    "file": "books/openstax-management-zh.md",
+    "title": "管理学原理（节选·中文译本）",
+    "author": "OpenStax（David S. Bright 等）",
+    "description": "OpenStax《Principles of Management》中“计划为何重要”“管理沟通的过程”两节的完整中文译文，附中文导读。鲸翼翻译，不是 OpenStax 官方译本。",
+    "category": "管理",
+    "language": "zh-CN",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "© OpenStax, Rice University. David S. Bright, Anastasia H. Cortes and contributing authors. Access for free at https://openstax.org/books/principles-management/pages/1-introduction ；中文译文由鲸翼翻译。"
+  },
+  {
+    "id": "openstax-economics-zh",
+    "file": "books/openstax-economics-zh.md",
+    "title": "经济学原理（节选·中文译本）",
+    "author": "OpenStax（Steven A. Greenlaw 等）",
+    "description": "OpenStax《Principles of Economics 3e》中“什么是经济学”“预算约束与机会成本”两节的完整中文译文，附中文导读。鲸翼翻译，不是 OpenStax 官方译本。",
+    "category": "经济",
+    "language": "zh-CN",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "© OpenStax, Rice University. Steven A. Greenlaw, David Shapiro, Daniel MacDonald. Access for free at https://openstax.org/books/principles-economics-3e/pages/1-introduction ；中文译文由鲸翼翻译。"
+  },
+  {
+    "id": "microsoft-genai-prompts-zh",
+    "file": "books/microsoft-genai-prompts-zh.md",
+    "title": "生成式 AI 入门：提示工程",
+    "author": "Microsoft",
+    "description": "微软 Generative AI for Beginners 官方中文课程中的“提示工程基础”“进阶提示”两课完整正文，附中文导读。",
+    "category": "AI",
+    "language": "zh-CN",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/microsoft/generative-ai-for-beginners/blob/d45da91247ecb91e5346caacdd5a5fb9c5b9d85e/LICENSE",
+    "attribution": "Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT License."
+  }
+]
